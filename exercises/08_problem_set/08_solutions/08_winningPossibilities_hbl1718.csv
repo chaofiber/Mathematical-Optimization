@@ -1,0 +1,307 @@
+Matchday,Game ID,Home team,Away team,Home score,Away score
+1,1,Die Eulen Ludwigshafen,FRISCH AUF! Göppingen,25,32
+1,2,TVB 1898 Stuttgart,MT Melsungen,29,27
+1,3,SG Flensburg-Handewitt,TuS N-Lübbecke,37,23
+1,4,VfL Gummersbach,HSG Wetzlar,22,33
+1,5,SC Magdeburg,TV 05/07 Hüttenberg,33,26
+1,6,TSV GWD Minden,SC DHfK Leipzig,26,29
+1,7,TBV Lemgo,Rhein-Neckar Löwen,24,26
+1,8,TuS N-Lübbecke,THW Kiel,21,33
+1,9,SC DHfK Leipzig,TV 05/07 Hüttenberg,26,25
+2,10,SC Magdeburg,Die Eulen Ludwigshafen,30,26
+2,11,HSG Wetzlar,TSV GWD Minden,24,24
+2,12,TSV Hannover-Burgdorf,SG Flensburg-Handewitt,32,29
+2,13,HC Erlangen,TBV Lemgo,24,28
+2,14,MT Melsungen,VfL Gummersbach,25,23
+2,15,THW Kiel,SC Magdeburg,34,32
+2,16,TV 05/07 Hüttenberg,MT Melsungen,27,28
+2,17,TVB 1898 Stuttgart,HC Erlangen,29,31
+2,18,VfL Gummersbach,FRISCH AUF! Göppingen,28,27
+3,19,TBV Lemgo,SC DHfK Leipzig,33,29
+3,20,SG Flensburg-Handewitt,Rhein-Neckar Löwen,27,22
+3,21,TSV Hannover-Burgdorf,HSG Wetzlar,30,27
+3,22,TSV GWD Minden,TuS N-Lübbecke,21,18
+3,23,Füchse Berlin,Die Eulen Ludwigshafen,31,24
+3,24,THW Kiel,TSV Hannover-Burgdorf,29,31
+3,25,Rhein-Neckar Löwen,TSV GWD Minden,37,22
+3,26,HSG Wetzlar,TV 05/07 Hüttenberg,23,23
+3,27,SC Magdeburg,Füchse Berlin,26,30
+4,28,HC Erlangen,VfL Gummersbach,25,22
+4,29,TuS N-Lübbecke,TSV Hannover-Burgdorf,21,25
+4,30,Die Eulen Ludwigshafen,TBV Lemgo,24,20
+4,31,SC Magdeburg,TVB 1898 Stuttgart,34,26
+4,32,MT Melsungen,THW Kiel,29,25
+4,33,SC DHfK Leipzig,SG Flensburg-Handewitt,25,22
+4,34,TuS N-Lübbecke,HSG Wetzlar,17,23
+4,35,SG Flensburg-Handewitt,HC Erlangen,29,21
+4,36,THW Kiel,SC DHfK Leipzig,29,26
+5,37,TSV GWD Minden,FRISCH AUF! Göppingen,26,26
+5,38,VfL Gummersbach,Rhein-Neckar Löwen,26,29
+5,39,TV 05/07 Hüttenberg,Füchse Berlin,28,30
+5,40,TVB 1898 Stuttgart,Die Eulen Ludwigshafen,25,22
+5,41,TBV Lemgo,MT Melsungen,26,26
+5,42,TSV Hannover-Burgdorf,SC Magdeburg,32,30
+5,43,HC Erlangen,TV 05/07 Hüttenberg,26,26
+5,44,Füchse Berlin,TVB 1898 Stuttgart,26,24
+5,45,MT Melsungen,SG Flensburg-Handewitt,25,30
+6,46,FRISCH AUF! Göppingen,TBV Lemgo,27,27
+6,47,HSG Wetzlar,THW Kiel,30,22
+6,48,Rhein-Neckar Löwen,TuS N-Lübbecke,36,27
+6,49,FRISCH AUF! Göppingen,TVB 1898 Stuttgart,21,23
+6,50,SC DHfK Leipzig,TSV Hannover-Burgdorf,25,23
+6,51,SC Magdeburg,TSV GWD Minden,34,25
+6,52,SG Flensburg-Handewitt,Die Eulen Ludwigshafen,32,29
+6,53,TSV Hannover-Burgdorf,HC Erlangen,25,19
+6,54,HSG Wetzlar,SC DHfK Leipzig,22,23
+7,55,VfL Gummersbach,Füchse Berlin,29,31
+7,56,TuS N-Lübbecke,SC Magdeburg,20,31
+7,57,TV 05/07 Hüttenberg,FRISCH AUF! Göppingen,28,28
+7,58,TBV Lemgo,TVB 1898 Stuttgart,24,21
+7,59,TSV GWD Minden,MT Melsungen,26,30
+7,60,Die Eulen Ludwigshafen,VfL Gummersbach,28,24
+7,61,Rhein-Neckar Löwen,THW Kiel,30,28
+7,62,Rhein-Neckar Löwen,TSV Hannover-Burgdorf,35,23
+7,63,Rhein-Neckar Löwen,TV 05/07 Hüttenberg,31,21
+8,64,SC DHfK Leipzig,Füchse Berlin,30,31
+8,65,MT Melsungen,TSV Hannover-Burgdorf,31,29
+8,66,Die Eulen Ludwigshafen,TSV GWD Minden,21,21
+8,67,FRISCH AUF! Göppingen,SG Flensburg-Handewitt,28,28
+8,68,HC Erlangen,THW Kiel,20,31
+8,69,Füchse Berlin,TBV Lemgo,36,23
+8,70,TVB 1898 Stuttgart,VfL Gummersbach,22,26
+8,71,SC DHfK Leipzig,TuS N-Lübbecke,26,26
+8,72,SC Magdeburg,HSG Wetzlar,31,29
+9,73,Füchse Berlin,HC Erlangen,31,25
+9,74,SG Flensburg-Handewitt,TVB 1898 Stuttgart,28,17
+9,75,TuS N-Lübbecke,MT Melsungen,19,22
+9,76,TV 05/07 Hüttenberg,Die Eulen Ludwigshafen,28,27
+9,77,VfL Gummersbach,TBV Lemgo,30,37
+9,78,THW Kiel,FRISCH AUF! Göppingen,28,23
+9,79,HSG Wetzlar,Rhein-Neckar Löwen,24,31
+9,80,TSV GWD Minden,HC Erlangen,33,22
+9,81,TSV Hannover-Burgdorf,Füchse Berlin,33,27
+10,82,SC Magdeburg,SC DHfK Leipzig,37,31
+10,83,Die Eulen Ludwigshafen,TuS N-Lübbecke,23,23
+10,84,FRISCH AUF! Göppingen,HSG Wetzlar,28,25
+10,85,Füchse Berlin,THW Kiel,25,25
+10,86,TVB 1898 Stuttgart,TSV GWD Minden,27,27
+10,87,SC DHfK Leipzig,HC Erlangen,34,24
+10,88,MT Melsungen,SC Magdeburg,29,27
+10,89,TBV Lemgo,TV 05/07 Hüttenberg,31,30
+10,90,VfL Gummersbach,SG Flensburg-Handewitt,25,29
+11,91,SC Magdeburg,Rhein-Neckar Löwen,29,32
+11,92,THW Kiel,Die Eulen Ludwigshafen,28,21
+11,93,HSG Wetzlar,HC Erlangen,26,23
+11,94,TSV GWD Minden,VfL Gummersbach,29,24
+11,95,FRISCH AUF! Göppingen,Füchse Berlin,32,38
+11,96,TV 05/07 Hüttenberg,TVB 1898 Stuttgart,23,28
+11,97,TuS N-Lübbecke,Füchse Berlin,21,29
+11,98,SG Flensburg-Handewitt,TBV Lemgo,25,22
+11,99,TSV Hannover-Burgdorf,FRISCH AUF! Göppingen,28,28
+12,100,SC DHfK Leipzig,MT Melsungen,30,27
+12,101,TVB 1898 Stuttgart,THW Kiel,24,36
+12,102,Füchse Berlin,SG Flensburg-Handewitt,26,30
+12,103,VfL Gummersbach,TV 05/07 Hüttenberg,28,25
+12,104,Die Eulen Ludwigshafen,TSV Hannover-Burgdorf,21,27
+12,105,SC DHfK Leipzig,Rhein-Neckar Löwen,23,29
+12,106,MT Melsungen,HSG Wetzlar,29,22
+12,107,TBV Lemgo,TSV GWD Minden,26,26
+12,108,HC Erlangen,TuS N-Lübbecke,22,22
+13,109,FRISCH AUF! Göppingen,SC Magdeburg,31,32
+13,110,TSV GWD Minden,Füchse Berlin,29,37
+13,111,SG Flensburg-Handewitt,TV 05/07 Hüttenberg,38,23
+13,112,HSG Wetzlar,Die Eulen Ludwigshafen,30,21
+13,113,THW Kiel,TBV Lemgo,29,19
+13,114,SC Magdeburg,HC Erlangen,28,22
+13,115,MT Melsungen,Rhein-Neckar Löwen,29,26
+13,116,TSV Hannover-Burgdorf,TVB 1898 Stuttgart,27,20
+13,117,SC DHfK Leipzig,FRISCH AUF! Göppingen,33,28
+14,118,TuS N-Lübbecke,VfL Gummersbach,26,27
+14,119,VfL Gummersbach,THW Kiel,31,27
+14,120,SG Flensburg-Handewitt,SC Magdeburg,29,24
+14,121,TBV Lemgo,TSV Hannover-Burgdorf,27,29
+14,122,Die Eulen Ludwigshafen,SC DHfK Leipzig,21,35
+14,123,FRISCH AUF! Göppingen,Rhein-Neckar Löwen,28,26
+14,124,TV 05/07 Hüttenberg,TSV GWD Minden,26,30
+14,125,HC Erlangen,MT Melsungen,23,23
+14,126,TVB 1898 Stuttgart,TuS N-Lübbecke,28,29
+15,127,Füchse Berlin,HSG Wetzlar,29,24
+15,128,MT Melsungen,Die Eulen Ludwigshafen,25,19
+15,129,TuS N-Lübbecke,FRISCH AUF! Göppingen,25,25
+15,130,SC Magdeburg,TBV Lemgo,35,28
+15,131,THW Kiel,TV 05/07 Hüttenberg,33,24
+15,132,TSV GWD Minden,SG Flensburg-Handewitt,30,34
+15,133,HSG Wetzlar,TVB 1898 Stuttgart,29,23
+15,134,TSV Hannover-Burgdorf,VfL Gummersbach,28,22
+15,135,Rhein-Neckar Löwen,HC Erlangen,33,22
+16,136,TSV GWD Minden,TSV Hannover-Burgdorf,29,29
+16,137,Rhein-Neckar Löwen,TVB 1898 Stuttgart,33,23
+16,139,VfL Gummersbach,SC Magdeburg,22,30
+16,138,TV 05/07 Hüttenberg,TuS N-Lübbecke,24,22
+16,140,TVB 1898 Stuttgart,SC DHfK Leipzig,22,27
+16,141,Die Eulen Ludwigshafen,Rhein-Neckar Löwen,18,26
+16,142,Füchse Berlin,MT Melsungen,32,29
+16,143,FRISCH AUF! Göppingen,HC Erlangen,25,28
+16,144,TBV Lemgo,HSG Wetzlar,28,26
+17,145,SG Flensburg-Handewitt,THW Kiel,27,35
+17,146,Rhein-Neckar Löwen,Füchse Berlin,37,23
+17,147,THW Kiel,TSV GWD Minden,30,27
+17,148,TuS N-Lübbecke,TBV Lemgo,22,25
+17,149,HC Erlangen,Die Eulen Ludwigshafen,22,22
+17,150,HSG Wetzlar,SG Flensburg-Handewitt,19,24
+17,151,MT Melsungen,FRISCH AUF! Göppingen,27,30
+17,153,TSV Hannover-Burgdorf,TV 05/07 Hüttenberg,32,25
+17,152,SC DHfK Leipzig,VfL Gummersbach,27,24
+18,154,TSV Hannover-Burgdorf,TBV Lemgo,27,25
+18,155,Die Eulen Ludwigshafen,SC Magdeburg,23,26
+18,156,TuS N-Lübbecke,TSV GWD Minden,29,22
+18,157,MT Melsungen,TVB 1898 Stuttgart,33,24
+18,158,HSG Wetzlar,VfL Gummersbach,30,25
+18,159,TV 05/07 Hüttenberg,SC DHfK Leipzig,20,24
+18,160,FRISCH AUF! Göppingen,THW Kiel,22,29
+18,161,HC Erlangen,Füchse Berlin,23,27
+18,162,Rhein-Neckar Löwen,SG Flensburg-Handewitt,32,27
+19,163,Füchse Berlin,SC Magdeburg,23,23
+19,164,TSV GWD Minden,HSG Wetzlar,26,24
+19,168,TBV Lemgo,Die Eulen Ludwigshafen,29,25
+19,165,VfL Gummersbach,MT Melsungen,17,25
+19,166,TVB 1898 Stuttgart,Rhein-Neckar Löwen,23,29
+19,167,SG Flensburg-Handewitt,TSV Hannover-Burgdorf,27,27
+19,169,FRISCH AUF! Göppingen,TV 05/07 Hüttenberg,28,17
+19,170,THW Kiel,TuS N-Lübbecke,29,19
+19,171,HC Erlangen,SC DHfK Leipzig,27,26
+20,173,SC Magdeburg,VfL Gummersbach,30,24
+20,176,Rhein-Neckar Löwen,TBV Lemgo,38,17
+20,177,TSV Hannover-Burgdorf,TSV GWD Minden,36,29
+20,178,HSG Wetzlar,FRISCH AUF! Göppingen,34,27
+20,179,HC Erlangen,SG Flensburg-Handewitt,20,29
+20,175,Die Eulen Ludwigshafen,Füchse Berlin,19,25
+20,172,TuS N-Lübbecke,TVB 1898 Stuttgart,24,21
+20,174,TV 05/07 Hüttenberg,THW Kiel,25,37
+20,180,MT Melsungen,SC DHfK Leipzig,28,20
+21,182,TBV Lemgo,HC Erlangen,24,24
+21,183,TVB 1898 Stuttgart,TSV Hannover-Burgdorf,26,33
+21,184,THW Kiel,HSG Wetzlar,25,26
+21,186,FRISCH AUF! Göppingen,TuS N-Lübbecke,24,19
+21,189,SG Flensburg-Handewitt,MT Melsungen,33,29
+21,181,SC DHfK Leipzig,SC Magdeburg,22,23
+21,185,VfL Gummersbach,Die Eulen Ludwigshafen,31,26
+21,188,TSV GWD Minden,TV 05/07 Hüttenberg,35,28
+22,191,HC Erlangen,TSV GWD Minden,26,26
+22,193,SC Magdeburg,FRISCH AUF! Göppingen,30,27
+22,194,TSV Hannover-Burgdorf,THW Kiel,28,27
+22,195,TV 05/07 Hüttenberg,SG Flensburg-Handewitt,23,30
+22,197,Füchse Berlin,SC DHfK Leipzig,24,20
+22,192,MT Melsungen,TBV Lemgo,33,33
+22,196,HSG Wetzlar,TuS N-Lübbecke,25,20
+22,198,Die Eulen Ludwigshafen,TVB 1898 Stuttgart,24,25
+23,201,THW Kiel,MT Melsungen,32,31
+23,203,TSV GWD Minden,Rhein-Neckar Löwen,24,35
+23,204,TBV Lemgo,Füchse Berlin,22,25
+23,207,TVB 1898 Stuttgart,SC Magdeburg,31,32
+23,199,SC DHfK Leipzig,Die Eulen Ludwigshafen,23,20
+23,200,FRISCH AUF! Göppingen,TSV Hannover-Burgdorf,30,19
+23,206,TuS N-Lübbecke,TV 05/07 Hüttenberg,26,26
+23,205,VfL Gummersbach,HC Erlangen,24,29
+23,202,SG Flensburg-Handewitt,HSG Wetzlar,34,27
+24,208,Rhein-Neckar Löwen,FRISCH AUF! Göppingen,31,20
+24,209,HC Erlangen,TVB 1898 Stuttgart,25,29
+24,216,MT Melsungen,TSV GWD Minden,31,27
+24,210,Füchse Berlin,VfL Gummersbach,31,24
+24,211,Die Eulen Ludwigshafen,SG Flensburg-Handewitt,24,30
+24,212,SC DHfK Leipzig,TBV Lemgo,26,19
+24,213,SC Magdeburg,THW Kiel,31,26
+24,215,TSV Hannover-Burgdorf,TuS N-Lübbecke,28,26
+24,214,TV 05/07 Hüttenberg,HSG Wetzlar,22,22
+22,190,Rhein-Neckar Löwen,VfL Gummersbach,36,26
+25,217,FRISCH AUF! Göppingen,MT Melsungen,29,28
+25,220,THW Kiel,HC Erlangen,29,24
+25,225,SG Flensburg-Handewitt,Füchse Berlin,29,21
+26,231,Die Eulen Ludwigshafen,HSG Wetzlar,31,29
+25,218,VfL Gummersbach,SC DHfK Leipzig,29,24
+25,221,TVB 1898 Stuttgart,TV 05/07 Hüttenberg,30,30
+25,222,TBV Lemgo,SC Magdeburg,27,27
+25,223,TuS N-Lübbecke,Rhein-Neckar Löwen,28,38
+25,224,HSG Wetzlar,TSV Hannover-Burgdorf,29,26
+25,219,TSV GWD Minden,Die Eulen Ludwigshafen,29,26
+26,227,Füchse Berlin,TSV GWD Minden,40,31
+26,228,TBV Lemgo,VfL Gummersbach,29,27
+26,233,SC Magdeburg,SG Flensburg-Handewitt,29,23
+26,234,THW Kiel,Rhein-Neckar Löwen,27,22
+26,229,HC Erlangen,FRISCH AUF! Göppingen,28,29
+26,226,MT Melsungen,TuS N-Lübbecke,27,16
+26,232,SC DHfK Leipzig,TVB 1898 Stuttgart,24,24
+26,230,TV 05/07 Hüttenberg,TSV Hannover-Burgdorf,19,29
+27,236,HSG Wetzlar,SC Magdeburg,27,29
+27,237,FRISCH AUF! Göppingen,Die Eulen Ludwigshafen,32,28
+27,240,THW Kiel,VfL Gummersbach,29,23
+27,241,TV 05/07 Hüttenberg,Rhein-Neckar Löwen,23,36
+27,243,TVB 1898 Stuttgart,Füchse Berlin,24,24
+27,238,SG Flensburg-Handewitt,SC DHfK Leipzig,30,27
+27,239,TSV GWD Minden,TBV Lemgo,24,24
+27,242,TuS N-Lübbecke,HC Erlangen,27,27
+27,235,TSV Hannover-Burgdorf,MT Melsungen,26,23
+28,245,SC Magdeburg,TuS N-Lübbecke,34,24
+28,248,TBV Lemgo,SG Flensburg-Handewitt,23,32
+28,251,VfL Gummersbach,TVB 1898 Stuttgart,25,26
+28,250,Rhein-Neckar Löwen,HSG Wetzlar,34,25
+28,252,HC Erlangen,TSV Hannover-Burgdorf,34,28
+28,246,SC DHfK Leipzig,TSV GWD Minden,20,17
+28,247,Füchse Berlin,FRISCH AUF! Göppingen,33,19
+28,249,Die Eulen Ludwigshafen,THW Kiel,21,25
+29,259,SG Flensburg-Handewitt,VfL Gummersbach,34,22
+28,244,MT Melsungen,TV 05/07 Hüttenberg,26,28
+29,254,FRISCH AUF! Göppingen,SC DHfK Leipzig,20,20
+29,256,TuS N-Lübbecke,Die Eulen Ludwigshafen,28,29
+29,257,THW Kiel,Füchse Berlin,25,20
+29,261,TSV Hannover-Burgdorf,Rhein-Neckar Löwen,23,26
+29,260,TV 05/07 Hüttenberg,HC Erlangen,24,27
+29,255,TSV GWD Minden,SC Magdeburg,29,41
+29,258,TVB 1898 Stuttgart,TBV Lemgo,27,28
+29,253,HSG Wetzlar,MT Melsungen,31,28
+30,263,VfL Gummersbach,TSV GWD Minden,22,24
+30,264,TBV Lemgo,FRISCH AUF! Göppingen,29,27
+30,269,TVB 1898 Stuttgart,SG Flensburg-Handewitt,28,35
+30,270,SC DHfK Leipzig,THW Kiel,16,28
+30,262,Die Eulen Ludwigshafen,TV 05/07 Hüttenberg,32,28
+30,268,HC Erlangen,HSG Wetzlar,25,25
+30,265,SC Magdeburg,TSV Hannover-Burgdorf,31,22
+31,271,Rhein-Neckar Löwen,SC Magdeburg,34,29
+31,273,THW Kiel,SG Flensburg-Handewitt,25,29
+31,274,HSG Wetzlar,Füchse Berlin,26,31
+31,275,TuS N-Lübbecke,SC DHfK Leipzig,17,22
+31,277,FRISCH AUF! Göppingen,VfL Gummersbach,24,16
+31,272,TSV Hannover-Burgdorf,Die Eulen Ludwigshafen,33,23
+31,276,MT Melsungen,HC Erlangen,26,28
+31,278,TSV GWD Minden,TVB 1898 Stuttgart,26,29
+31,279,TV 05/07 Hüttenberg,TBV Lemgo,24,24
+21,187,Füchse Berlin,Rhein-Neckar Löwen,29,23
+32,280,Füchse Berlin,TSV Hannover-Burgdorf,25,24
+32,283,TV 05/07 Hüttenberg,SC Magdeburg,31,37
+32,284,Die Eulen Ludwigshafen,MT Melsungen,27,31
+32,287,VfL Gummersbach,TuS N-Lübbecke,21,22
+32,281,SC DHfK Leipzig,HSG Wetzlar,23,21
+32,285,TBV Lemgo,THW Kiel,27,31
+32,286,SG Flensburg-Handewitt,TSV GWD Minden,24,23
+32,282,HC Erlangen,Rhein-Neckar Löwen,25,25
+30,266,Füchse Berlin,TuS N-Lübbecke,26,20
+30,267,Rhein-Neckar Löwen,MT Melsungen,23,24
+32,288,TVB 1898 Stuttgart,FRISCH AUF! Göppingen,23,30
+33,293,HSG Wetzlar,TBV Lemgo,23,24
+33,295,HC Erlangen,SC Magdeburg,31,29
+33,289,TV 05/07 Hüttenberg,VfL Gummersbach,22,23
+33,290,MT Melsungen,Füchse Berlin,31,24
+33,291,FRISCH AUF! Göppingen,TSV GWD Minden,27,28
+33,292,TSV Hannover-Burgdorf,SC DHfK Leipzig,30,26
+33,294,TuS N-Lübbecke,SG Flensburg-Handewitt,24,27
+33,296,Rhein-Neckar Löwen,Die Eulen Ludwigshafen,34,26
+33,297,THW Kiel,TVB 1898 Stuttgart,31,25
+34,298,TVB 1898 Stuttgart,HSG Wetzlar,26,36
+34,299,VfL Gummersbach,TSV Hannover-Burgdorf,29,31
+34,300,TSV GWD Minden,THW Kiel,25,32
+34,301,Die Eulen Ludwigshafen,HC Erlangen,32,29
+34,302,TBV Lemgo,TuS N-Lübbecke,30,27
+34,303,SG Flensburg-Handewitt,FRISCH AUF! Göppingen,22,20
+34,304,Füchse Berlin,TV 05/07 Hüttenberg,28,23
+34,305,Rhein-Neckar Löwen,SC DHfK Leipzig,28,25
+34,306,SC Magdeburg,MT Melsungen,33,31
